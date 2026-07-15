@@ -13,3 +13,9 @@
 2. `cd Yolo/yolov7`
 3. `python3 ros_detect.py --weights runs/train/yolo_slam6/weights/best.pt --conf-thres 0.7 --img-size 640`
 4. conf-thresh - confidence threshold, img-size - image size as a square, 
+
+# Contributors
+1. Fazil Khan
+2. Rahul Nunna
+3. Yaseen Mohommad
+4. Dev GHiya
